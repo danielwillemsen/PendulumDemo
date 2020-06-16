@@ -2,7 +2,7 @@
 Model-Based RL Demo for Pendulum-v0
 
 Known requirements:
-openAI gym (pip install gym)
+openAI gym (pip install gym), 
 torch (pip install torch)
 
 To run:
