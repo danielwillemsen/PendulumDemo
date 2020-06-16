@@ -1,5 +1,7 @@
 # PendulumDemo
-Model-Based RL Demo for Pendulum-v0, very roughly inspired by the following paper from Janner et al.: When to Trust Your Model: Model-Based Policy Optimization. 
+Model-Based RL Demo for Pendulum-v0.
+
+This demo is, very roughly inspired by the following paper from Janner et al.: When to Trust Your Model: Model-Based Policy Optimization (https://arxiv.org/abs/1906.08253).
 
 
 Known requirements:
