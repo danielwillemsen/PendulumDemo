@@ -1,5 +1,6 @@
 # PendulumDemo
-Model-Based RL Demo for Pendulum-v0
+Model-Based RL Demo for Pendulum-v0, very roughly inspired by the following paper from Janner et al.: When to Trust Your Model: Model-Based Policy Optimization. 
+
 
 Known requirements:
 openAI gym (pip install gym), 
